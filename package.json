@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "preact-cps",
-  "homepage": "http://man-exists.github.io/preact-cps",
+  "homepage": "https://man-exists.github.io/preact-cps",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -20,6 +20,7 @@
   "devDependencies": {
     "eslint": "^7.17.0",
     "eslint-config-preact": "^1.1.3",
+    "eslint-plugin-react": "^7.26.1",
     "gh-pages": "^3.2.3",
     "preact-cli": "^3.0.0",
     "sirv-cli": "^1.0.3"

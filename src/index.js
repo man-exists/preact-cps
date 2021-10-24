@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import './style';
 import { useState } from 'preact/hooks'
 
