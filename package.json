@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "preact-cps",
-  "homepage": "https://man-exists.github.io/preact-cps",
+  "homepage": "https://man-exists.github.io/preact-cps/",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
